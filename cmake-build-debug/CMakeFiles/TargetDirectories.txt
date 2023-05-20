@@ -1,0 +1,3 @@
+/Users/wangjian/code/C:C++/GSMwork/cmake-build-debug/CMakeFiles/GSM.dir
+/Users/wangjian/code/C:C++/GSMwork/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/wangjian/code/C:C++/GSMwork/cmake-build-debug/CMakeFiles/rebuild_cache.dir
